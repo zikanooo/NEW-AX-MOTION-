@@ -1,0 +1,8 @@
+{
+  "name": "Open Motion",
+  "description": "Free and open-source browser-based animation and video editor with keyframe animation, vector editing, 3D transforms, and timeline controls.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
